@@ -1,5 +1,3 @@
-# Solicita tres números y determina cuál es el mayor y el menor mediante comparaciones directas.
-
 def mayor_y_menor():
     a = float(input("Numero 1: "))
     b = float(input("Numero 2: "))
