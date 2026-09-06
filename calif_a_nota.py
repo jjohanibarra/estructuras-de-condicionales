@@ -1,5 +1,3 @@
-# Convierte una calificación numérica (0-100) a letra evaluando los rangos de mayor a menor.
-
 def convertir_calificacion():
     nota=float(input("Calificacion (0-100): "))
 
